@@ -1,0 +1,5 @@
+{
+  "name": "Conversor de Imagem para PDF",
+  "description": "Uma ferramenta simples para converter múltiplos arquivos de imagem (PNG, JPEG, GIF, etc.) em documentos PDF. Você pode combinar todas as imagens em um único PDF ou criar um PDF separado para cada imagem.",
+  "requestFramePermissions": []
+}
